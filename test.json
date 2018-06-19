@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Chef-Server-HA",
+    "shortName": "Chef-Server",
+    "image": "/reandeploy/images/blueprint-gallery/chef.png",
+    "blueprintFileName": "Chef-Server-HA",
+    "description": "This blueprint contains Chef-Server-HA environments",
+    "blueprintReadmeFileName": "Chef-Server-HA"
+  }
+]
